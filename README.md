@@ -1,18 +1,16 @@
 # Sales Performance Analysis
 
-# Description
+# Project Overview:
 
 This dataset contains detailed information about customers, products, and store operations, enabling analysis of customer demographics, purchasing behavior, product performance, and regional store insights.
 
-
-
-# Tools Used
+# Tools Used:
 
 Excel  – Data cleaning and transformation
 
 Power BI  – Dashboard visualization
 
-# Key Insights
+# Key Insights:
 
 Most customers fall into specific age groups (e.g., 25–40), helping target marketing campaigns.
 
@@ -30,7 +28,7 @@ Bean, Jones and Park store outperform others showing location-specific demand.
 
 Low stock levels in high-demand products can lead to missed sales opportunities.
 
-# Conclusions
+# Recommendations:
 
 The Sales Performance Analysis Dashboard provides a holistic view of business performance, covering revenue, profit, inventory, and regional trends.
 
